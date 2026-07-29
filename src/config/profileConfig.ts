@@ -39,11 +39,11 @@ export const profileConfig: ProfileConfig = {
 			url: "https://gitee.com/wangguanghui123",
 			showName: false,
 		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
+		// {
+		// 	name: "RSS",
+		// 	icon: "fa7-solid:rss",
+		// 	url: "/rss/",
+		// 	showName: false,
+		// },
 	],
 };

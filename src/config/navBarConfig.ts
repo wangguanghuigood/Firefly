@@ -33,9 +33,6 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		],
 	});
 
-	// 动态
-	links.push(LinkPresets.Dynamic);
-
 	//社交及其子菜单
 	links.push({
 		name: "社交",
@@ -44,6 +41,9 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			// 友链
 			LinkPresets.Friends,
+
+			// 动态
+			LinkPresets.Dynamic,
 
 			// 留言
 			LinkPresets.Guestbook,
@@ -62,24 +62,24 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			// 追番
 			LinkPresets.Anime,
 
+			// 关于页面
+			LinkPresets.About,
+
 			// 番组计划
 			//LinkPresets.Bangumi,
 		],
 	});
 
-	// 关于及其子菜单
-	links.push({
-		name: "关于",
-		url: "#",
-		icon: "material-symbols:info",
-		children: [
-			// 打赏
-			//LinkPresets.Sponsor,
-
-			// 关于页面
-			LinkPresets.About,
-		],
-	});
+	// // 关于及其子菜单
+	// links.push({
+	// 	name: "关于",
+	// 	url: "#",
+	// 	icon: "material-symbols:info",
+	// 	children: [
+	// 		// 打赏
+	// 		//LinkPresets.Sponsor,
+	// 	],
+	// });
 
 	// 自定义导航栏链接
 	links.push({
@@ -162,12 +162,12 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:link-2-rounded",
 		pageKey: "friends",
 	},
-	Sponsor: {
-		name: "打赏",
-		url: "/sponsor/",
-		icon: "material-symbols:favorite",
-		pageKey: "sponsor",
-	},
+	// Sponsor: {
+	// 	name: "打赏",
+	// 	url: "/sponsor/",
+	// 	icon: "material-symbols:favorite",
+	// 	pageKey: "sponsor",
+	// },
 	Guestbook: {
 		name: "留言",
 		url: "/guestbook/",
@@ -179,12 +179,12 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		url: "/about/",
 		icon: "material-symbols:person",
 	},
-	Bangumi: {
-		name: "番组计划",
-		url: "/bangumi/",
-		icon: "material-symbols:movie",
-		pageKey: "bangumi",
-	},
+	// Bangumi: {
+	// 	name: "番组计划",
+	// 	url: "/bangumi/",
+	// 	icon: "material-symbols:movie",
+	// 	pageKey: "bangumi",
+	// },
 	Gallery: {
 		name: "相册",
 		url: "/gallery/",
