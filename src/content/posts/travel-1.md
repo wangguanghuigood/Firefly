@@ -19,9 +19,9 @@ slug: travel-1
 也是飞了两个小时，这是我第一次坐飞机，很刺激的
 最后放几张照片：
 
-![travel-1-机场-1](/src/content/posts/images/travel-1/travel-1-机场-1.jpg)
+![travel-1-机场-1](./images/travel-1/travel-1-机场-1.jpg)
 
-![travel-1-机场-2](/src/content/posts/images/travel-1/travel-1-机场-2.jpg)
+![travel-1-机场-2](./images/travel-1/travel-1-机场-2.jpg)
 
 ## 第二关：宋城
 
@@ -37,21 +37,21 @@ slug: travel-1
 
 首先先展示夜晚的西湖：
 
-![travel-1-西湖-1](/src/content/posts/images/travel-1/travel-1-西湖-1.jpg)
+![travel-1-西湖-1](./images/travel-1/travel-1-西湖-1.jpg)
 
-![travel-1-西湖-2](/src/content/posts/images/travel-1/travel-1-西湖-2.jpg)
+![travel-1-西湖-2](./images/travel-1/travel-1-西湖-2.jpg)
 
 然后是白天：
 
-![travel-1-西湖-3](/src/content/posts/images/travel-1/travel-1-西湖-3.jpg)
+![travel-1-西湖-3](./images/travel-1/travel-1-西湖-3.jpg)
 
-![travel-1-西湖-4](/src/content/posts/images/travel-1/travel-1-西湖-4.jpg)
+![travel-1-西湖-4](./images/travel-1/travel-1-西湖-4.jpg)
 
-![travel-1-西湖-5](/src/content/posts/images/travel-1/travel-1-西湖-5.jpg)
+![travel-1-西湖-5](./images/travel-1/travel-1-西湖-5.jpg)
 
-![travel-1-西湖-6](/src/content/posts/images/travel-1/travel-1-西湖-6.jpg)
+![travel-1-西湖-6](./images/travel-1/travel-1-西湖-6.jpg)
 
-![travel-1-西湖-7](/src/content/posts/images/travel-1/travel-1-西湖-7.jpg)
+![travel-1-西湖-7](./images/travel-1/travel-1-西湖-7.jpg)
 
 非常的**beautiful**啊！！！！
 
@@ -62,11 +62,11 @@ slug: travel-1
 
 直接展示照片：
 
-![travel-1-南湖-1](/src/content/posts/images/travel-1/travel-1-南湖-1.jpg)
+![travel-1-南湖-1](./images/travel-1/travel-1-南湖-1.jpg)
 
-![travel-1-南湖-2](/src/content/posts/images/travel-1/travel-1-南湖-2.jpg)
+![travel-1-南湖-2](./images/travel-1/travel-1-南湖-2.jpg)
 
-![travel-1-南湖-3](/src/content/posts/images/travel-1/travel-1-南湖-3.jpg)
+![travel-1-南湖-3](./images/travel-1/travel-1-南湖-3.jpg)
 
 **直接敬礼**！！！
 ## ♥🇨🇳🫡
@@ -79,23 +79,23 @@ slug: travel-1
 
 白天：
 
-![travel-1-乌镇-1](/src/content/posts/images/travel-1/travel-1-乌镇-1.jpg)
+![travel-1-乌镇-1](./images/travel-1/travel-1-乌镇-1.jpg)
 
-![travel-1-乌镇-2](/src/content/posts/images/travel-1/travel-1-乌镇-2.jpg)
+![travel-1-乌镇-2](./images/travel-1/travel-1-乌镇-2.jpg)
 
-![travel-1-乌镇-3](/src/content/posts/images/travel-1/travel-1-乌镇-3.jpg)
+![travel-1-乌镇-3](./images/travel-1/travel-1-乌镇-3.jpg)
 
-![travel-1-乌镇-4](/src/content/posts/images/travel-1/travel-1-乌镇-4.jpg)
+![travel-1-乌镇-4](./images/travel-1/travel-1-乌镇-4.jpg)
 
-![travel-1-乌镇-5](/src/content/posts/images/travel-1/travel-1-乌镇-5.jpg)
+![travel-1-乌镇-5](./images/travel-1/travel-1-乌镇-5.jpg)
 
 加下来是晚上的：
 
-![travel-1-乌镇-6](/src/content/posts/images/travel-1/travel-1-乌镇-6.jpg)
+![travel-1-乌镇-6](./images/travel-1/travel-1-乌镇-6.jpg)
 
-![travel-1-乌镇-7](/src/content/posts/images/travel-1/travel-1-乌镇-7.jpg)
+![travel-1-乌镇-7](./images/travel-1/travel-1-乌镇-7.jpg)
 
-![travel-1-乌镇-8](/src/content/posts/images/travel-1/travel-1-乌镇-8.jpg)
+![travel-1-乌镇-8](./images/travel-1/travel-1-乌镇-8.jpg)
 
 ## OK 非常的美丽呀
 
@@ -103,25 +103,25 @@ slug: travel-1
 
 首先先看的马戏团杂技表演：
 
-![travel-1-动物园-1](/src/content/posts/images/travel-1/travel-1-动物园-1.jpg)
+![travel-1-动物园-1](./images/travel-1/travel-1-动物园-1.jpg)
 
-![travel-1-动物园-2](/src/content/posts/images/travel-1/travel-1-动物园-2.jpg)
+![travel-1-动物园-2](./images/travel-1/travel-1-动物园-2.jpg)
 
 然后就是小动物：
 
-![travel-1-动物园-3](/src/content/posts/images/travel-1/travel-1-动物园-3.jpg)
+![travel-1-动物园-3](./images/travel-1/travel-1-动物园-3.jpg)
 
-![travel-1-动物园-4](/src/content/posts/images/travel-1/travel-1-动物园-4.jpg)
+![travel-1-动物园-4](./images/travel-1/travel-1-动物园-4.jpg)
 
-![travel-1-动物园-5](/src/content/posts/images/travel-1/travel-1-动物园-5.jpg)
+![travel-1-动物园-5](./images/travel-1/travel-1-动物园-5.jpg)
 
-![travel-1-动物园-6](/src/content/posts/images/travel-1/travel-1-动物园-6.jpg)
+![travel-1-动物园-6](./images/travel-1/travel-1-动物园-6.jpg)
 
-![travel-1-动物园-7](/src/content/posts/images/travel-1/travel-1-动物园-7.jpg)
+![travel-1-动物园-7](./images/travel-1/travel-1-动物园-7.jpg)
 
-![travel-1-动物园-8](/src/content/posts/images/travel-1/travel-1-动物园-8.jpg)
+![travel-1-动物园-8](./images/travel-1/travel-1-动物园-8.jpg)
 
-![travel-1-动物园-9](/src/content/posts/images/travel-1/travel-1-动物园-9.jpg)
+![travel-1-动物园-9](./images/travel-1/travel-1-动物园-9.jpg)
 
 **这些动物都非常可爱捏！！**💕😁
 
@@ -129,9 +129,9 @@ slug: travel-1
 
 这个直接展示照片吧：
 
-![travel-1-城隍庙-1](/src/content/posts/images/travel-1/travel-1-城隍庙-1.jpg)
+![travel-1-城隍庙-1](./images/travel-1/travel-1-城隍庙-1.jpg)
 
-![travel-1-城隍庙-2](/src/content/posts/images/travel-1/travel-1-城隍庙-2.jpg)
+![travel-1-城隍庙-2](./images/travel-1/travel-1-城隍庙-2.jpg)
 
 
 ## 第八关：上海东方明珠与外滩
@@ -140,13 +140,13 @@ slug: travel-1
 
 然后又去了外滩，拍了一写照片：
 
-![travel-1-东方明珠与外滩-1](/src/content/posts/images/travel-1/travel-1-东方明珠与外滩-1.jpg)
+![travel-1-东方明珠与外滩-1](./images/travel-1/travel-1-东方明珠与外滩-1.jpg)
 
-![travel-1-东方明珠与外滩-2](/src/content/posts/images/travel-1/travel-1-东方明珠与外滩-2.jpg)
+![travel-1-东方明珠与外滩-2](./images/travel-1/travel-1-东方明珠与外滩-2.jpg)
 
-![travel-1-东方明珠与外滩-3](/src/content/posts/images/travel-1/travel-1-东方明珠与外滩-3.jpg)
+![travel-1-东方明珠与外滩-3](./images/travel-1/travel-1-东方明珠与外滩-3.jpg)
 
-![travel-1-东方明珠与外滩-4](/src/content/posts/images/travel-1/travel-1-东方明珠与外滩-4.jpg)
+![travel-1-东方明珠与外滩-4](./images/travel-1/travel-1-东方明珠与外滩-4.jpg)
 
 这也繁华了！！！🤩
 
@@ -161,9 +161,9 @@ slug: travel-1
 
 我从上海走的时候，上海已经是台风黄色预警了，给你们看看上海台风来临时的雨：
 
-![travel-1-暴雨-1](/src/content/posts/images/travel-1/travel-1-暴雨-1.jpg)
+![travel-1-暴雨-1](./images/travel-1/travel-1-暴雨-1.jpg)
 
-![travel-1-暴雨-2](/src/content/posts/images/travel-1/travel-1-暴雨-2.jpg)
+![travel-1-暴雨-2](./images/travel-1/travel-1-暴雨-2.jpg)
 
 雨很大！！！
 
